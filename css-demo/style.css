@@ -1,0 +1,24 @@
+*{
+  outline: 1px solid red !important;
+}
+
+*{
+  box-sizing: border-box;
+}
+
+.title {
+  background-color: #33BEBE;
+}
+
+.app {
+  display: flex;
+}
+
+.screenshot {
+  max-width: 460px;
+
+}
+
+.description {
+  max-width: 705px;
+}
